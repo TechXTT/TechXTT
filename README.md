@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 
-- 🔭 I’m currently working on [HT9](https://github.com/hacktues-9)
+<!-- - 🔭 I’m currently working on [HT9](https://github.com/hacktues-9) -->
 
 - 🌱 I’m currently learning **GOlang and PostgreSQL**
 
