@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [HT9](https://github.com/hacktues-9) -->
 
-- 🌱 I’m currently learning **GOlang and PostgreSQL**
+- 🌱 I’m currently learning **GO and PostgreSQL**
 
 - 💬 Ask me about **SQL, Firebase and NodeJS**
 
