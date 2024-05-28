@@ -3,9 +3,9 @@
 
 <!-- - 🔭 I’m currently working on [HT9](https://github.com/hacktues-9) -->
 
-- 🌱 I’m currently learning **GO and PostgreSQL**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **SQL, Firebase and NodeJS**
+- 💬 Ask me about **Postgres, GO and NodeJS**
 
 - 📫 How to reach me **martin@bozhilov.me**
 
