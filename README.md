@@ -17,10 +17,8 @@
 <a href="https://instagram.com/suicidal_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suicidal_programmer" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=techxtt&show_icons=true&locale=en&theme=dark" alt="techxtt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techxtt&theme=dark" alt="techxtt" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techxtt&show_icons=true&locale=en&layout=compact&theme=dark" alt="techxtt" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techxtt&label=Profile%20views&color=0e75b6&style=flat" alt="techxtt" /> </p>
+# 📈 Github Stats
+<p>
+  <img alt="Slavi's stats" src="https://github-readme-stats.vercel.app/api?username=techxtt&theme=catppuccin_mocha&show_icons=true&hide_title=true&hide_border=true" alt="techxtt" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxtt&include_all_commits=true&layout=compact&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="techxtt" />
+</p>
