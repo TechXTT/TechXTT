@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 
-<!-- - 🔭 I’m currently working on [HT9](https://github.com/hacktues-9) -->
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Postgres, GO and NodeJS**
-
-- 📫 How to reach me **martin@bozhilov.me**
+- Building open-source tools in Go. Creator of TORM — a type-safe Go ORM with declarative schemas and PostgreSQL support. Interested in backend systems, distributed architecture, and clean developer tooling.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
